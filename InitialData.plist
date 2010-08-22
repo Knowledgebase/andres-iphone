@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sculptures</key>
+	<array>
+		<dict>
+			<key>artist</key>
+			<integer>0</integer>
+			<key>site</key>
+			<dict>
+				<key>latitude</key>
+				<real>42.397748</real>
+				<key>longitude</key>
+				<real>-71.124861</real>
+			</dict>
+			<key>title</key>
+			<string>Bevan&apos;s Home</string>
+			<key>date</key>
+			<string>2010-07-27</string>
+			<key>statement</key>
+			<string>Just a home.</string>
+			<key>primaryImage</key>
+			<string>BevansHome.jpg</string>
+			<key>images</key>
+			<array>
+				<string>yoshi.jpg</string>
+			</array>
+			<key>videos</key>
+			<array>
+				<string>yoshi_video.mov</string>
+			</array>
+		</dict>
+		<dict>
+			<key>artist</key>
+			<integer>0</integer>
+			<key>site</key>
+			<dict>
+				<key>latitude</key>
+				<real>42.379511</real>
+				<key>longitude</key>
+				<real>-71.09486099999999</real>
+			</dict>
+			<key>title</key>
+			<string>Ripple Run</string>
+			<key>date</key>
+			<string>2010-03-01</string>
+			<key>statement</key>
+			<string>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+			<key>primaryImage</key>
+			<string>Ripplerun.jpg</string>
+			<key>images</key>
+			<array/>
+			<key>videos</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Artists</key>
+	<array>
+		<dict>
+			<key>firstName</key>
+			<string>Bevan</string>
+			<key>lastName</key>
+			<string>Weissman</string>
+			<key>displayName</key>
+			<string>Bevan Weissman</string>
+		</dict>
+	</array>
+</dict>
+</plist>
